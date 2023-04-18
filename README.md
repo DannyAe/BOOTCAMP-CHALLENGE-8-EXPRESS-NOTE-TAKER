@@ -43,7 +43,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following images show the web application's appearance and functionality:
 
-https://github.com/DannyAe/BOOTCAMP-CHALLENGE-8-EXPRESS-NOTE-TAKER/blob/main/assets/notetaker-image.png
+<img src="https://github.com/DannyAe/BOOTCAMP-CHALLENGE-8-EXPRESS-NOTE-TAKER/blob/main/assets/notetaker-image.png" width="650">
+
+
 
 ## Git Repo
 
